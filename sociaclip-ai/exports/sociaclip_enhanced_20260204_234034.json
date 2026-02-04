@@ -1,0 +1,1033 @@
+{
+  "export_info": {
+    "generated_at": "2026-02-04T23:40:34.142467",
+    "sociaclip_version": "1.0.0-enhanced",
+    "video_processing_enabled": true,
+    "total_posts": 4,
+    "clips_included": 4
+  },
+  "scheduled_posts": [
+    {
+      "platform": "twitter",
+      "caption": "\ud83d\udcaa The workout secret that actually works:\n\nI used to struggle with fitness challenges until I discovered this fitness method. The results? incredible transformation. Game changer.\n\nWhat's your experience with this? Drop it below! \ud83d\udc47",
+      "hashtags": [
+        "#fitness",
+        "#fyp"
+      ],
+      "full_post": "\ud83d\udcaa The workout secret that actually works:\n\nI used to struggle with fitness challenges until I discovered this fitness method. The results? incredible transformation. Game changer.\n\nWhat's your experience with this? Drop it below! \ud83d\udc47\n\n#fitness #fyp",
+      "content_strategy": "storytelling",
+      "engagement_style": "viral",
+      "hook_options": [
+        "\u26a1 This one move targets everything:",
+        "\ud83d\udcaa The workout secret that actually works:",
+        "\ud83d\udcaa The workout secret that actually works:"
+      ],
+      "selected_hook": "\ud83d\udcaa The workout secret that actually works:",
+      "posting_recommendations": {
+        "optimal_times": [
+          "09:00",
+          "12:00",
+          "15:00",
+          "18:00"
+        ],
+        "engagement_boost": [],
+        "platform_tips": []
+      },
+      "viral_score": 40,
+      "optimization_score": 70,
+      "created_at": "2026-02-04T23:40:34.137884",
+      "clip_source": {
+        "clip_id": "clip_2",
+        "source_video": "https://www.tiktok.com/discover/best-viral-fitness-videos",
+        "start_time": 30,
+        "duration": 15,
+        "end_time": 45,
+        "clip_type": "intro",
+        "description": "Hook or introduction",
+        "viral_potential": 40,
+        "engagement_prediction": {
+          "likes": "medium",
+          "shares": "medium",
+          "comments": "medium"
+        },
+        "suggested_platforms": [
+          "instagram",
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "content_optimization": {
+          "suggested_caption_style": "general_engaging",
+          "hashtag_strategy": {
+            "niche_hashtags": [
+              "general"
+            ],
+            "viral_hashtags": [
+              "#fyp"
+            ],
+            "platform_hashtags": [
+              "#reels",
+              "#shorts"
+            ],
+            "total_recommended": 8
+          },
+          "posting_time_preference": "evening",
+          "engagement_tactics": [
+            "Ask questions",
+            "Encourage shares",
+            "Request comments"
+          ]
+        },
+        "extraction_status": "metadata_ready",
+        "file_path": null,
+        "original_video_metadata": {
+          "title": "Best Viral Fitness Videos | TikTok",
+          "url": "https://www.tiktok.com/discover/best-viral-fitness-videos",
+          "viral_score": 57,
+          "discovered_niche": ""
+        },
+        "processing_insights": {
+          "content_themes": [
+            "general"
+          ],
+          "viral_indicators": {
+            "viral_score": 0,
+            "indicators": {},
+            "has_high_potential": false
+          },
+          "engagement_triggers": {
+            "engagement_score": 3,
+            "triggers": {
+              "personal": [
+                "i"
+              ]
+            },
+            "high_engagement_potential": false
+          }
+        },
+        "enhanced_metadata": {
+          "generated_at": "2026-02-04T23:40:33.653034",
+          "processing_quality": 100,
+          "ready_for_content_generation": true
+        }
+      },
+      "video_enhanced": true,
+      "clip_timing": {
+        "start_time": 30,
+        "duration": 15
+      },
+      "platform_optimization": [
+        "instagram",
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "video_insights_used": true,
+      "scheduled_date": "2026-02-04",
+      "scheduled_time": "09:00",
+      "scheduling_intelligence": {
+        "expected_engagement": 1.08,
+        "viral_multiplier": 1.2,
+        "audience_overlap": 0.3,
+        "competition_level": "low",
+        "recommendation_score": 76,
+        "algorithm_optimization": [
+          "Engage actively in first 30 minutes for algorithm boost",
+          "Tweet during high-activity periods for engagement",
+          "Use trending hashtags sparingly",
+          "Engage with replies quickly for algorithm boost",
+          "Consider quote tweets of trending topics"
+        ],
+        "posting_strategy": {
+          "pre_post": [
+            "Prepare engaging caption with hook",
+            "Research trending hashtags for the day",
+            "Have response templates ready for comments"
+          ],
+          "post_publish": [
+            "Share to Stories (Instagram) or create response videos",
+            "Engage with first 10 comments personally",
+            "Share in relevant communities/groups if appropriate"
+          ],
+          "engagement_tactics": [
+            "Ask questions to encourage comments",
+            "Use polls in Stories to drive traffic back to post",
+            "Create follow-up content based on comments"
+          ],
+          "viral_amplification": []
+        },
+        "clip_optimization": {
+          "clip_type": "intro",
+          "duration": 15,
+          "viral_potential": 40,
+          "best_platforms": [
+            "instagram",
+            "youtube_shorts",
+            "tiktok"
+          ],
+          "clip_timing_notes": []
+        }
+      }
+    },
+    {
+      "platform": "instagram",
+      "caption": "\ud83d\udd25 This fitness hack changed my routine: Let me explain...\n\nThe truth about fitness that nobody talks about: the key insight from this fitness content. Here's why it matters: applying this fitness strategy correctly.\n\nDouble tap if this blew your mind! \ud83e\udd2f Share your results in comments!",
+      "hashtags": [
+        "#fitness",
+        "#workout",
+        "#gym",
+        "#health",
+        "#trending",
+        "#viral",
+        "#fyp",
+        "#reels",
+        "#content"
+      ],
+      "full_post": "\ud83d\udd25 This fitness hack changed my routine: Let me explain...\n\nThe truth about fitness that nobody talks about: the key insight from this fitness content. Here's why it matters: applying this fitness strategy correctly.\n\nDouble tap if this blew your mind! \ud83e\udd2f Share your results in comments!\n\n#fitness #workout #gym #health #trending #viral #fyp #reels #content",
+      "content_strategy": "educational",
+      "engagement_style": "viral",
+      "hook_options": [
+        "\u26a1 This one move targets everything: Let me explain...",
+        "\ud83d\udd25 This fitness hack changed my routine: Let me explain...",
+        "\ud83d\udd25 This fitness hack changed my routine: Let me explain..."
+      ],
+      "selected_hook": "\ud83d\udd25 This fitness hack changed my routine: Let me explain...",
+      "posting_recommendations": {
+        "optimal_times": [
+          "11:00",
+          "14:00",
+          "17:00",
+          "20:00"
+        ],
+        "engagement_boost": [],
+        "platform_tips": [
+          "Use Instagram Reels format for maximum reach",
+          "Add captions for accessibility",
+          "Engage with comments in first hour"
+        ]
+      },
+      "viral_score": 60,
+      "optimization_score": 85,
+      "created_at": "2026-02-04T23:40:34.137524",
+      "clip_source": {
+        "clip_id": "clip_1",
+        "source_video": "https://www.tiktok.com/discover/best-viral-fitness-videos",
+        "start_time": 0,
+        "duration": 15,
+        "end_time": 15,
+        "clip_type": "highlight",
+        "description": "Most engaging moment",
+        "viral_potential": 60,
+        "engagement_prediction": {
+          "likes": "medium",
+          "shares": "medium",
+          "comments": "medium"
+        },
+        "suggested_platforms": [
+          "instagram",
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "content_optimization": {
+          "suggested_caption_style": "general_engaging",
+          "hashtag_strategy": {
+            "niche_hashtags": [
+              "general"
+            ],
+            "viral_hashtags": [
+              "#fyp"
+            ],
+            "platform_hashtags": [
+              "#reels",
+              "#shorts"
+            ],
+            "total_recommended": 8
+          },
+          "posting_time_preference": "evening",
+          "engagement_tactics": [
+            "Ask questions",
+            "Encourage shares",
+            "Request comments"
+          ]
+        },
+        "extraction_status": "metadata_ready",
+        "file_path": null,
+        "original_video_metadata": {
+          "title": "Best Viral Fitness Videos | TikTok",
+          "url": "https://www.tiktok.com/discover/best-viral-fitness-videos",
+          "viral_score": 57,
+          "discovered_niche": ""
+        },
+        "processing_insights": {
+          "content_themes": [
+            "general"
+          ],
+          "viral_indicators": {
+            "viral_score": 0,
+            "indicators": {},
+            "has_high_potential": false
+          },
+          "engagement_triggers": {
+            "engagement_score": 3,
+            "triggers": {
+              "personal": [
+                "i"
+              ]
+            },
+            "high_engagement_potential": false
+          }
+        },
+        "enhanced_metadata": {
+          "generated_at": "2026-02-04T23:40:33.653012",
+          "processing_quality": 100,
+          "ready_for_content_generation": true
+        }
+      },
+      "video_enhanced": true,
+      "clip_timing": {
+        "start_time": 0,
+        "duration": 15
+      },
+      "platform_optimization": [
+        "instagram",
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "video_insights_used": true,
+      "scheduled_date": "2026-02-04",
+      "scheduled_time": "14:00",
+      "scheduling_intelligence": {
+        "expected_engagement": 0.9,
+        "viral_multiplier": 1.8199999999999998,
+        "audience_overlap": 0.3,
+        "competition_level": "low",
+        "recommendation_score": 87,
+        "algorithm_optimization": [
+          "Engage actively in first 60 minutes for algorithm boost",
+          "Use Reels format for maximum algorithm preference",
+          "Add captions for accessibility boost",
+          "Use trending audio if applicable",
+          "Engage with comments immediately after posting"
+        ],
+        "posting_strategy": {
+          "pre_post": [
+            "Prepare engaging caption with hook",
+            "Research trending hashtags for the day",
+            "Have response templates ready for comments"
+          ],
+          "post_publish": [
+            "Share to Stories (Instagram) or create response videos",
+            "Engage with first 10 comments personally",
+            "Share in relevant communities/groups if appropriate"
+          ],
+          "engagement_tactics": [
+            "Ask questions to encourage comments",
+            "Use polls in Stories to drive traffic back to post",
+            "Create follow-up content based on comments"
+          ],
+          "viral_amplification": []
+        },
+        "clip_optimization": {
+          "clip_type": "highlight",
+          "duration": 15,
+          "viral_potential": 60,
+          "best_platforms": [
+            "instagram",
+            "youtube_shorts",
+            "tiktok"
+          ],
+          "clip_timing_notes": []
+        }
+      }
+    },
+    {
+      "platform": "youtube_shorts",
+      "caption": "\ud83d\udcaa The workout secret that actually works:\n\nHere's what most people get wrong about fitness: the key insight from this fitness content. The better approach? applying this fitness strategy correctly.\n\nDouble tap if this blew your mind! \ud83e\udd2f Share your results in comments!",
+      "hashtags": [
+        "#fitness",
+        "#workout",
+        "#trending",
+        "#shorts",
+        "#content"
+      ],
+      "full_post": "\ud83d\udcaa The workout secret that actually works:\n\nHere's what most people get wrong about fitness: the key insight from this fitness content. The better approach? applying this fitness strategy correctly.\n\nDouble tap if this blew your mind! \ud83e\udd2f Share your results in comments!\n\n#fitness #workout #trending #shorts #content",
+      "content_strategy": "educational",
+      "engagement_style": "viral",
+      "hook_options": [
+        "\u26a1 This one move targets everything:",
+        "\ud83d\udcaa The workout secret that actually works:",
+        "\ud83d\udcaa The workout secret that actually works:"
+      ],
+      "selected_hook": "\ud83d\udcaa The workout secret that actually works:",
+      "posting_recommendations": {
+        "optimal_times": [
+          "14:00",
+          "16:00",
+          "18:00",
+          "20:00"
+        ],
+        "engagement_boost": [],
+        "platform_tips": []
+      },
+      "viral_score": 60,
+      "optimization_score": 85,
+      "created_at": "2026-02-04T23:40:34.137798",
+      "clip_source": {
+        "clip_id": "clip_1",
+        "source_video": "https://www.tiktok.com/discover/viral-tiktok-gym?lang=en",
+        "start_time": 0,
+        "duration": 15,
+        "end_time": 15,
+        "clip_type": "highlight",
+        "description": "Most engaging moment",
+        "viral_potential": 60,
+        "engagement_prediction": {
+          "likes": "medium",
+          "shares": "medium",
+          "comments": "medium"
+        },
+        "suggested_platforms": [
+          "instagram",
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "content_optimization": {
+          "suggested_caption_style": "general_engaging",
+          "hashtag_strategy": {
+            "niche_hashtags": [
+              "general"
+            ],
+            "viral_hashtags": [
+              "#fyp"
+            ],
+            "platform_hashtags": [
+              "#reels",
+              "#shorts"
+            ],
+            "total_recommended": 8
+          },
+          "posting_time_preference": "evening",
+          "engagement_tactics": [
+            "Ask questions",
+            "Encourage shares",
+            "Request comments"
+          ]
+        },
+        "extraction_status": "metadata_ready",
+        "file_path": null,
+        "original_video_metadata": {
+          "title": "Viral TikTok Gym | TikTok",
+          "url": "https://www.tiktok.com/discover/viral-tiktok-gym?lang=en",
+          "viral_score": 42,
+          "discovered_niche": ""
+        },
+        "processing_insights": {
+          "content_themes": [
+            "general"
+          ],
+          "viral_indicators": {
+            "viral_score": 0,
+            "indicators": {},
+            "has_high_potential": false
+          },
+          "engagement_triggers": {
+            "engagement_score": 3,
+            "triggers": {
+              "personal": [
+                "i"
+              ]
+            },
+            "high_engagement_potential": false
+          }
+        },
+        "enhanced_metadata": {
+          "generated_at": "2026-02-04T23:40:34.136422",
+          "processing_quality": 100,
+          "ready_for_content_generation": true
+        }
+      },
+      "video_enhanced": true,
+      "clip_timing": {
+        "start_time": 0,
+        "duration": 15
+      },
+      "platform_optimization": [
+        "instagram",
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "video_insights_used": true,
+      "scheduled_date": "2026-02-04",
+      "scheduled_time": "16:00",
+      "scheduling_intelligence": {
+        "expected_engagement": 0.9,
+        "viral_multiplier": 1.8199999999999998,
+        "audience_overlap": 0.3,
+        "competition_level": "low",
+        "recommendation_score": 87,
+        "algorithm_optimization": [
+          "Engage actively in first 180 minutes for algorithm boost",
+          "Optimize thumbnail even for Shorts",
+          "Use compelling titles for click-through rate",
+          "Add end screen to encourage more views",
+          "Use trending topics in description"
+        ],
+        "posting_strategy": {
+          "pre_post": [
+            "Prepare engaging caption with hook",
+            "Research trending hashtags for the day",
+            "Have response templates ready for comments"
+          ],
+          "post_publish": [
+            "Share to Stories (Instagram) or create response videos",
+            "Engage with first 10 comments personally",
+            "Share in relevant communities/groups if appropriate"
+          ],
+          "engagement_tactics": [
+            "Ask questions to encourage comments",
+            "Use polls in Stories to drive traffic back to post",
+            "Create follow-up content based on comments"
+          ],
+          "viral_amplification": []
+        },
+        "clip_optimization": {
+          "clip_type": "highlight",
+          "duration": 15,
+          "viral_potential": 60,
+          "best_platforms": [
+            "instagram",
+            "youtube_shorts",
+            "tiktok"
+          ],
+          "clip_timing_notes": []
+        }
+      }
+    },
+    {
+      "platform": "tiktok",
+      "caption": "\u26a1 \ud83d\udd25 This fitness hack changed my routine:\n\nTrue story: I tried this fitness approach and the results bl...\n\nFollow for more viral fitness! \u26a1",
+      "hashtags": [
+        "#fitness",
+        "#workout",
+        "#trending",
+        "#fyp"
+      ],
+      "full_post": "\u26a1 \ud83d\udd25 This fitness hack changed my routine:\n\nTrue story: I tried this fitness approach and the results bl...\n\nFollow for more viral fitness! \u26a1\n\n#fitness #workout #trending #fyp",
+      "content_strategy": "storytelling",
+      "engagement_style": "viral",
+      "hook_options": [
+        "\u26a1 \u26a1 This one move targets everything:",
+        "\u26a1 \ud83d\udd25 This fitness hack changed my routine:",
+        "\u26a1 \ud83d\udcaa The workout secret that actually works:"
+      ],
+      "selected_hook": "\u26a1 \ud83d\udd25 This fitness hack changed my routine:",
+      "posting_recommendations": {
+        "optimal_times": [
+          "18:00",
+          "19:00",
+          "20:00",
+          "21:00"
+        ],
+        "engagement_boost": [],
+        "platform_tips": [
+          "Use trending sounds for better reach",
+          "Post during peak hours: 6-10 PM",
+          "Engage with trending challenges"
+        ]
+      },
+      "viral_score": 60,
+      "optimization_score": 85,
+      "created_at": "2026-02-04T23:40:34.137699",
+      "clip_source": {
+        "clip_id": "clip_1",
+        "source_video": "https://www.tiktok.com/discover/whos-the-best-workout-videos-on-youtube",
+        "start_time": 0,
+        "duration": 15,
+        "end_time": 15,
+        "clip_type": "highlight",
+        "description": "Most engaging moment",
+        "viral_potential": 60,
+        "engagement_prediction": {
+          "likes": "medium",
+          "shares": "medium",
+          "comments": "medium"
+        },
+        "suggested_platforms": [
+          "instagram",
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "content_optimization": {
+          "suggested_caption_style": "general_engaging",
+          "hashtag_strategy": {
+            "niche_hashtags": [
+              "general"
+            ],
+            "viral_hashtags": [
+              "#fyp"
+            ],
+            "platform_hashtags": [
+              "#reels",
+              "#shorts"
+            ],
+            "total_recommended": 8
+          },
+          "posting_time_preference": "evening",
+          "engagement_tactics": [
+            "Ask questions",
+            "Encourage shares",
+            "Request comments"
+          ]
+        },
+        "extraction_status": "metadata_ready",
+        "file_path": null,
+        "original_video_metadata": {
+          "title": "Whos The Best Workout Videos on Youtube | TikTok",
+          "url": "https://www.tiktok.com/discover/whos-the-best-workout-videos-on-youtube",
+          "viral_score": 47,
+          "discovered_niche": ""
+        },
+        "processing_insights": {
+          "content_themes": [
+            "general"
+          ],
+          "viral_indicators": {
+            "viral_score": 0,
+            "indicators": {},
+            "has_high_potential": false
+          },
+          "engagement_triggers": {
+            "engagement_score": 3,
+            "triggers": {
+              "personal": [
+                "i"
+              ]
+            },
+            "high_engagement_potential": false
+          }
+        },
+        "enhanced_metadata": {
+          "generated_at": "2026-02-04T23:40:33.894484",
+          "processing_quality": 100,
+          "ready_for_content_generation": true
+        }
+      },
+      "video_enhanced": true,
+      "clip_timing": {
+        "start_time": 0,
+        "duration": 15
+      },
+      "platform_optimization": [
+        "instagram",
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "video_insights_used": true,
+      "scheduled_date": "2026-02-04",
+      "scheduled_time": "18:00",
+      "scheduling_intelligence": {
+        "expected_engagement": 1.1700000000000002,
+        "viral_multiplier": 2.912,
+        "audience_overlap": 0.6,
+        "competition_level": "medium",
+        "recommendation_score": 89,
+        "algorithm_optimization": [
+          "Engage actively in first 120 minutes for algorithm boost",
+          "Focus on high completion rate - keep content engaging throughout",
+          "Use trending sounds for FYP algorithm boost",
+          "Hook viewers in first 3 seconds",
+          "Encourage rewatches for algorithm signals"
+        ],
+        "posting_strategy": {
+          "pre_post": [
+            "Prepare engaging caption with hook",
+            "Research trending hashtags for the day",
+            "Have response templates ready for comments"
+          ],
+          "post_publish": [
+            "Share to Stories (Instagram) or create response videos",
+            "Engage with first 10 comments personally",
+            "Share in relevant communities/groups if appropriate"
+          ],
+          "engagement_tactics": [
+            "Ask questions to encourage comments",
+            "Use polls in Stories to drive traffic back to post",
+            "Create follow-up content based on comments"
+          ],
+          "viral_amplification": []
+        },
+        "clip_optimization": {
+          "clip_type": "highlight",
+          "duration": 15,
+          "viral_potential": 60,
+          "best_platforms": [
+            "instagram",
+            "youtube_shorts",
+            "tiktok"
+          ],
+          "clip_timing_notes": []
+        }
+      }
+    }
+  ],
+  "video_assets": {
+    "clips_metadata": [
+      {
+        "clip_id": "clip_2",
+        "source_video": "https://www.tiktok.com/discover/best-viral-fitness-videos",
+        "start_time": 30,
+        "duration": 15,
+        "end_time": 45,
+        "clip_type": "intro",
+        "description": "Hook or introduction",
+        "viral_potential": 40,
+        "engagement_prediction": {
+          "likes": "medium",
+          "shares": "medium",
+          "comments": "medium"
+        },
+        "suggested_platforms": [
+          "instagram",
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "content_optimization": {
+          "suggested_caption_style": "general_engaging",
+          "hashtag_strategy": {
+            "niche_hashtags": [
+              "general"
+            ],
+            "viral_hashtags": [
+              "#fyp"
+            ],
+            "platform_hashtags": [
+              "#reels",
+              "#shorts"
+            ],
+            "total_recommended": 8
+          },
+          "posting_time_preference": "evening",
+          "engagement_tactics": [
+            "Ask questions",
+            "Encourage shares",
+            "Request comments"
+          ]
+        },
+        "extraction_status": "metadata_ready",
+        "file_path": null,
+        "original_video_metadata": {
+          "title": "Best Viral Fitness Videos | TikTok",
+          "url": "https://www.tiktok.com/discover/best-viral-fitness-videos",
+          "viral_score": 57,
+          "discovered_niche": ""
+        },
+        "processing_insights": {
+          "content_themes": [
+            "general"
+          ],
+          "viral_indicators": {
+            "viral_score": 0,
+            "indicators": {},
+            "has_high_potential": false
+          },
+          "engagement_triggers": {
+            "engagement_score": 3,
+            "triggers": {
+              "personal": [
+                "i"
+              ]
+            },
+            "high_engagement_potential": false
+          }
+        },
+        "enhanced_metadata": {
+          "generated_at": "2026-02-04T23:40:33.653034",
+          "processing_quality": 100,
+          "ready_for_content_generation": true
+        }
+      },
+      {
+        "clip_id": "clip_1",
+        "source_video": "https://www.tiktok.com/discover/best-viral-fitness-videos",
+        "start_time": 0,
+        "duration": 15,
+        "end_time": 15,
+        "clip_type": "highlight",
+        "description": "Most engaging moment",
+        "viral_potential": 60,
+        "engagement_prediction": {
+          "likes": "medium",
+          "shares": "medium",
+          "comments": "medium"
+        },
+        "suggested_platforms": [
+          "instagram",
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "content_optimization": {
+          "suggested_caption_style": "general_engaging",
+          "hashtag_strategy": {
+            "niche_hashtags": [
+              "general"
+            ],
+            "viral_hashtags": [
+              "#fyp"
+            ],
+            "platform_hashtags": [
+              "#reels",
+              "#shorts"
+            ],
+            "total_recommended": 8
+          },
+          "posting_time_preference": "evening",
+          "engagement_tactics": [
+            "Ask questions",
+            "Encourage shares",
+            "Request comments"
+          ]
+        },
+        "extraction_status": "metadata_ready",
+        "file_path": null,
+        "original_video_metadata": {
+          "title": "Best Viral Fitness Videos | TikTok",
+          "url": "https://www.tiktok.com/discover/best-viral-fitness-videos",
+          "viral_score": 57,
+          "discovered_niche": ""
+        },
+        "processing_insights": {
+          "content_themes": [
+            "general"
+          ],
+          "viral_indicators": {
+            "viral_score": 0,
+            "indicators": {},
+            "has_high_potential": false
+          },
+          "engagement_triggers": {
+            "engagement_score": 3,
+            "triggers": {
+              "personal": [
+                "i"
+              ]
+            },
+            "high_engagement_potential": false
+          }
+        },
+        "enhanced_metadata": {
+          "generated_at": "2026-02-04T23:40:33.653012",
+          "processing_quality": 100,
+          "ready_for_content_generation": true
+        }
+      },
+      {
+        "clip_id": "clip_1",
+        "source_video": "https://www.tiktok.com/discover/viral-tiktok-gym?lang=en",
+        "start_time": 0,
+        "duration": 15,
+        "end_time": 15,
+        "clip_type": "highlight",
+        "description": "Most engaging moment",
+        "viral_potential": 60,
+        "engagement_prediction": {
+          "likes": "medium",
+          "shares": "medium",
+          "comments": "medium"
+        },
+        "suggested_platforms": [
+          "instagram",
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "content_optimization": {
+          "suggested_caption_style": "general_engaging",
+          "hashtag_strategy": {
+            "niche_hashtags": [
+              "general"
+            ],
+            "viral_hashtags": [
+              "#fyp"
+            ],
+            "platform_hashtags": [
+              "#reels",
+              "#shorts"
+            ],
+            "total_recommended": 8
+          },
+          "posting_time_preference": "evening",
+          "engagement_tactics": [
+            "Ask questions",
+            "Encourage shares",
+            "Request comments"
+          ]
+        },
+        "extraction_status": "metadata_ready",
+        "file_path": null,
+        "original_video_metadata": {
+          "title": "Viral TikTok Gym | TikTok",
+          "url": "https://www.tiktok.com/discover/viral-tiktok-gym?lang=en",
+          "viral_score": 42,
+          "discovered_niche": ""
+        },
+        "processing_insights": {
+          "content_themes": [
+            "general"
+          ],
+          "viral_indicators": {
+            "viral_score": 0,
+            "indicators": {},
+            "has_high_potential": false
+          },
+          "engagement_triggers": {
+            "engagement_score": 3,
+            "triggers": {
+              "personal": [
+                "i"
+              ]
+            },
+            "high_engagement_potential": false
+          }
+        },
+        "enhanced_metadata": {
+          "generated_at": "2026-02-04T23:40:34.136422",
+          "processing_quality": 100,
+          "ready_for_content_generation": true
+        }
+      },
+      {
+        "clip_id": "clip_1",
+        "source_video": "https://www.tiktok.com/discover/whos-the-best-workout-videos-on-youtube",
+        "start_time": 0,
+        "duration": 15,
+        "end_time": 15,
+        "clip_type": "highlight",
+        "description": "Most engaging moment",
+        "viral_potential": 60,
+        "engagement_prediction": {
+          "likes": "medium",
+          "shares": "medium",
+          "comments": "medium"
+        },
+        "suggested_platforms": [
+          "instagram",
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "content_optimization": {
+          "suggested_caption_style": "general_engaging",
+          "hashtag_strategy": {
+            "niche_hashtags": [
+              "general"
+            ],
+            "viral_hashtags": [
+              "#fyp"
+            ],
+            "platform_hashtags": [
+              "#reels",
+              "#shorts"
+            ],
+            "total_recommended": 8
+          },
+          "posting_time_preference": "evening",
+          "engagement_tactics": [
+            "Ask questions",
+            "Encourage shares",
+            "Request comments"
+          ]
+        },
+        "extraction_status": "metadata_ready",
+        "file_path": null,
+        "original_video_metadata": {
+          "title": "Whos The Best Workout Videos on Youtube | TikTok",
+          "url": "https://www.tiktok.com/discover/whos-the-best-workout-videos-on-youtube",
+          "viral_score": 47,
+          "discovered_niche": ""
+        },
+        "processing_insights": {
+          "content_themes": [
+            "general"
+          ],
+          "viral_indicators": {
+            "viral_score": 0,
+            "indicators": {},
+            "has_high_potential": false
+          },
+          "engagement_triggers": {
+            "engagement_score": 3,
+            "triggers": {
+              "personal": [
+                "i"
+              ]
+            },
+            "high_engagement_potential": false
+          }
+        },
+        "enhanced_metadata": {
+          "generated_at": "2026-02-04T23:40:33.894484",
+          "processing_quality": 100,
+          "ready_for_content_generation": true
+        }
+      }
+    ],
+    "processing_insights": {
+      "total_clips": 4,
+      "viral_potential_distribution": {
+        "low": 1,
+        "medium": 3
+      },
+      "clip_type_distribution": {
+        "intro": 1,
+        "highlight": 3
+      },
+      "platform_optimization": {}
+    }
+  },
+  "enhanced_deployment": {
+    "video_workflow": [
+      "Review generated posts and associated clip metadata",
+      "Download or prepare actual video clips based on timing information",
+      "Create video assets using provided start_time and duration",
+      "Upload posts with video content to respective platforms",
+      "Monitor engagement especially for high-viral-potential clips",
+      "Analyze performance to optimize future clip selection"
+    ],
+    "clip_management": {
+      "clip_preparation": [
+        "Use provided start_time and duration for precise clip extraction",
+        "Maintain original video quality for best results",
+        "Add captions or text overlays as suggested in content optimization",
+        "Ensure clips match the predicted viral moments"
+      ],
+      "quality_control": [
+        "Verify clips match the described content (hook, climax, etc.)",
+        "Check audio quality and visual clarity",
+        "Ensure clips are engaging within first 3 seconds",
+        "Test clips on target platforms before scheduling"
+      ],
+      "optimization": [
+        "Use high-viral-potential clips during peak posting hours",
+        "A/B test different clips from same source video",
+        "Monitor which clip types perform best for your audience",
+        "Adjust future video selection based on clip performance"
+      ]
+    },
+    "enhanced_monitoring": {
+      "video_metrics": [
+        "Clip completion rate (percentage of viewers who watch full clip)",
+        "Engagement rate by clip type (hook vs climax vs transformation)",
+        "Platform-specific performance (which clips work best where)",
+        "Viral breakthrough indicators (rapid sharing, comment spikes)"
+      ],
+      "clip_analysis": [
+        "Track which viral moments predictions were accurate",
+        "Monitor correlation between processing quality and actual performance",
+        "Analyze which content themes generate most engagement",
+        "Identify patterns in successful clip timing and duration"
+      ],
+      "optimization_triggers": [
+        "High-performing clip types should be prioritized in future processing",
+        "Low-performing clips indicate need for better viral moment detection",
+        "Platform mismatches suggest need for better platform suggestion algorithms",
+        "Engagement patterns guide future content selection and processing"
+      ]
+    }
+  }
+}
