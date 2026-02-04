@@ -1,0 +1,56 @@
+{
+  "app_name": "SociaClip AI",
+  "version": "1.0.0-mvp",
+  "created": "2026-02-04T22:54:29.143730",
+  "business_model": {
+    "pricing_tiers": {
+      "starter": {
+        "price": 49,
+        "posts_per_day": 5,
+        "platforms": 1
+      },
+      "pro": {
+        "price": 149,
+        "posts_per_day": 15,
+        "platforms": 3
+      },
+      "agency": {
+        "price": 399,
+        "posts_per_day": 50,
+        "platforms": "all"
+      }
+    },
+    "target_revenue": "1M+ ARR",
+    "market_size": "15B social media management"
+  },
+  "features": {
+    "content_discovery": "\u2705 Web search trending video discovery",
+    "ai_content_generation": "\u2705 Platform-specific captions and hashtags",
+    "multi_platform_scheduling": "\u2705 Instagram, TikTok, YouTube, Twitter",
+    "performance_analytics": "\u2705 Engagement tracking and optimization",
+    "automation": "\u2705 Cron-based daily workflows"
+  },
+  "technical_stack": {
+    "content_discovery": "Brave Search API",
+    "ai_generation": "Claude AI via OpenClaw",
+    "scheduling": "OpenClaw cron system",
+    "video_processing": "FFmpeg (TODO: Install)",
+    "social_apis": "Platform APIs (TODO: Configure)"
+  },
+  "development_status": {
+    "content_discovery": "\u2705 Complete",
+    "ai_content_generation": "\u2705 Complete",
+    "workflow_orchestration": "\u2705 Complete",
+    "automation_scheduling": "\u2705 Complete",
+    "video_processing": "\u23f3 Pending FFmpeg setup",
+    "social_api_integration": "\u23f3 Pending API credentials",
+    "analytics_dashboard": "\u23f3 Future enhancement",
+    "user_interface": "\u23f3 Future enhancement"
+  },
+  "deployment": {
+    "environment": "OpenClaw workspace",
+    "automation": "OpenClaw cron jobs",
+    "data_storage": "Local JSON files",
+    "monitoring": "OpenClaw system events"
+  }
+}
