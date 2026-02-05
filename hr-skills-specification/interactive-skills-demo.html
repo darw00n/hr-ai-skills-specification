@@ -6,105 +6,186 @@
     <title>Interactive Skills Demo</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
             margin: 0;
-            padding: 0;
-            line-height: 1.6;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            overflow: hidden;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
         }
         header {
-            background: #333;
+            background-color: #0f4c81;
             color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #0779e4 3px solid;
-        }
-        header a {
-            color: #fff;
-            text-decoration: none;
-            text-transform: uppercase;
-            font-size: 16px;
-        }
-        h1, h2, h3 {
-            margin: 0 0 10px 0;
-            padding: 0;
-        }
-        .skill {
-            background: #fff;
-            margin: 20px 0;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .skill h3 {
-            color: #0779e4;
-        }
-        .tools, .mcp, .calibration {
-            padding: 10px 0;
-        }
-        .action {
-            background: #0779e4;
-            color: #fff;
-            padding: 10px;
-            margin-top: 10px;
+            padding: 20px 0;
             text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+        }
+        .skill-card {
+            background-color: #fff;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s ease-in-out;
+        }
+        .skill-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        }
+        .skill-header {
+            background: linear-gradient(135deg, #0f4c81, #285a8e);
+            color: #ffffff;
+            padding: 20px;
+            border-radius: 8px 8px 0 0;
+        }
+        .skill-header h3 {
+            margin: 0;
+            font-size: 1.75em;
+        }
+        .skill-content {
+            padding: 20px;
+        }
+        .toggle-button {
+            background-color: #0f4c81;
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
             border-radius: 5px;
             cursor: pointer;
+            transition: background 0.3s ease;
         }
-        .action:hover {
-            background: #055e95;
+        .toggle-button:hover {
+            background-color: #063a70;
+        }
+        .tools ul {
+            padding-left: 20px;
+        }
+        .tools li {
+            margin-bottom: 5px;
         }
     </style>
 </head>
 <body>
     <header>
-        <div class="container">
-            <h1>Interactive Skills Demo</h1>
-            <p>Select a skill to view details and simulate configurations.</p>
-        </div>
+        <h1>Interactive Enterprise Skills Demo</h1>
+        <p>Explore skill details and simulate dynamic configurations</p>
     </header>
-
     <div class="container">
-        <div class="skill">
-            <h3>Recruitment: AI Candidate Matching</h3>
-            <div class="tools">Tools Used: Deep Learning, Resume Parsing, Bias Detection</div>
-            <div class="mcp">MCP Connection: Candidate Data Exchange</div>
-            <div class="calibration">Calibration Needed: AI Model Training, Resume Formats</div>
-            <div class="action">Toggle Tool: Enable/Disable Bias Detection</div>
+        <div class="skill-card">
+            <div class="skill-header">
+                <h3>Recruitment: AI Candidate Matching</h3>
+            </div>
+            <div class="skill-content">
+                <div class="tools">
+                    <strong>Tools Used:</strong>
+                    <ul>
+                        <li>Deep Learning</li>
+                        <li>Resume Parsing</li>
+                        <li>Bias Detection</li>
+                    </ul>
+                </div>
+                <div class="mcp">
+                    <strong>MCP Connection:</strong> Candidate Data Exchange
+                </div>
+                <div class="calibration">
+                    <strong>Calibration Needed:</strong> AI Model Training, Resume Formats
+                </div>
+                <button class="toggle-button">Toggle Bias Detection</button>
+            </div>
         </div>
-        <div class="skill">
-            <h3>Onboarding: Employee Integration</h3>
-            <div class="tools">Tools Used: Workflow Engine, Task Management, Notifications</div>
-            <div class="mcp">MCP Connection: Workflow State Management</div>
-            <div class="calibration">Calibration Needed: Role Templates, Approval Chains</div>
-            <div class="action">Toggle Tool: Enable/Disable Notifications</div>
+        <div class="skill-card">
+            <div class="skill-header">
+                <h3>Onboarding: Employee Integration</h3>
+            </div>
+            <div class="skill-content">
+                <div class="tools">
+                    <strong>Tools Used:</strong>
+                    <ul>
+                        <li>Workflow Engine</li>
+                        <li>Task Management</li>
+                        <li>Notifications</li>
+                    </ul>
+                </div>
+                <div class="mcp">
+                    <strong>MCP Connection:</strong> Workflow State Management
+                </div>
+                <div class="calibration">
+                    <strong>Calibration Needed:</strong> Role Templates, Approval Chains
+                </div>
+                <button class="toggle-button">Toggle Notifications</button>
+            </div>
         </div>
-        <div class="skill">
-            <h3>Administration: Employee Data Update</h3>
-            <div class="tools">Tools Used: Data Validation, Access Control, Change Tracking</div>
-            <div class="mcp">MCP Connection: Document Management</div>
-            <div class="calibration">Calibration Needed: Data Validation Rules</div>
-            <div class="action">Toggle Tool: Enable/Disable Access Control</div>
+        <div class="skill-card">
+            <div class="skill-header">
+                <h3>Administration: Employee Data Update</h3>
+            </div>
+            <div class="skill-content">
+                <div class="tools">
+                    <strong>Tools Used:</strong>
+                    <ul>
+                        <li>Data Validation</li>
+                        <li>Access Control</li>
+                        <li>Change Tracking</li>
+                    </ul>
+                </div>
+                <div class="mcp">
+                    <strong>MCP Connection:</strong> Document Management
+                </div>
+                <div class="calibration">
+                    <strong>Calibration Needed:</strong> Data Validation Rules
+                </div>
+                <button class="toggle-button">Toggle Access Control</button>
+            </div>
         </div>
-        <div class="skill">
-            <h3>Performance: Goal Tracking</h3>
-            <div class="tools">Tools Used: Analytics, Progress Monitoring, Feedback Collection</div>
-            <div class="mcp">MCP Connection: Performance Data Analytics</div>
-            <div class="calibration">Calibration Needed: Goal Templates, Feedback Models</div>
-            <div class="action">Toggle Tool: Enable/Disable Analytics</div>
+        <div class="skill-card">
+            <div class="skill-header">
+                <h3>Performance: Goal Tracking</h3>
+            </div>
+            <div class="skill-content">
+                <div class="tools">
+                    <strong>Tools Used:</strong>
+                    <ul>
+                        <li>Analytics</li>
+                        <li>Progress Monitoring</li>
+                        <li>Feedback Collection</li>
+                    </ul>
+                </div>
+                <div class="mcp">
+                    <strong>MCP Connection:</strong> Performance Data Analytics
+                </div>
+                <div class="calibration">
+                    <strong>Calibration Needed:</strong> Goal Templates, Feedback Models
+                </div>
+                <button class="toggle-button">Toggle Analytics</button>
+            </div>
         </div>
-        <div class="skill">
-            <h3>Training: Personalized Learning Path</h3>
-            <div class="tools">Tools Used: Skill Gap Analysis, Learning Management, Reporting</div>
-            <div class="mcp">MCP Connection: Learning Pathway Integration</div>
-            <div class="calibration">Calibration Needed: Skill Gap Definitions, Learning Content</div>
-            <div class="action">Toggle Tool: Enable/Disable Skill Gap Analysis</div>
+        <div class="skill-card">
+            <div class="skill-header">
+                <h3>Training: Personalized Learning Path</h3>
+            </div>
+            <div class="skill-content">
+                <div class="tools">
+                    <strong>Tools Used:</strong>
+                    <ul>
+                        <li>Skill Gap Analysis</li>
+                        <li>Learning Management</li>
+                        <li>Reporting</li>
+                    </ul>
+                </div>
+                <div class="mcp">
+                    <strong>MCP Connection:</strong> Learning Pathway Integration
+                </div>
+                <div class="calibration">
+                    <strong>Calibration Needed:</strong> Skill Gap Definitions, Learning Content
+                </div>
+                <button class="toggle-button">Toggle Skill Gap Analysis</button>
+            </div>
         </div>
     </div>
 </body>
