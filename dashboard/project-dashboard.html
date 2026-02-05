@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Dashboard</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
+        }
+        header {
+            background-color: #0f4c81;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+        }
+        .card {
+            background-color: #fff;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .card h2 {
+            margin-top: 0;
+            color: #0f4c81;
+            font-size: 1.75em;
+        }
+        .progress-bar {
+            background-color: #ddd;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        .progress-bar-inner {
+            height: 20px;
+            width: 75%; /* Example progress */
+            background-color: #0f4c81;
+            border-radius: 20px 0 0 20px;
+            text-align: center;
+            color: #fff;
+            line-height: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Project Dashboard</h1>
+        <p>Your Road to the First $1 Million</p>
+    </header>
+    <div class="container">
+
+        <div class="card">
+            <h2>Project Status</h2>
+            <p><strong>Active Projects:</strong> HR AI Skills Specification System, SociaClip AI</p>
+            <div class="progress-bar">
+                <div class="progress-bar-inner">75% Complete</div>
+            </div>
+            <ul>
+                <li>HR AI Skills: Framework complete, detailed specs in progress</li>
+                <li>SociaClip AI: Video processing done, API credentials needed</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Upcoming Needs</h2>
+            <ul>
+                <li>GitHub Access: Ensure repository setup for other projects</li>
+                <li>API Credentials: Required for SociaClip AI integrations</li>
+                <li>Client Feedback: Insights for next HR AI skill iterations</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Major Milestones</h2>
+            <ul>
+                <li><strong>HR AI Skills Framework Complete:</strong> Built the foundational system in 2 hours</li>
+                <li><strong>SociaClip AI Video Processing Deployed:</strong> Ready to leverage social media</li>
+                <li><strong>Next Steps:</strong> Full HR AI skills suite, Complete API configurations</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
